@@ -1,7 +1,7 @@
 Le tri à bulles est considéré lent car il compare un à un chaque élément du tableau.
 Ce qui signifie qu'on rajoute potentiellement N comparaison à chaque valeur du tableau.
 
-Il existe la fonctione time.time() qui prend le temps réel à un instant T, 
+En important "time" on a la fonctione time.time() qui prend le temps réel à un instant T, 
 alors si l'on prend cette mesure au début (Tdebut=time.time()) 
 et la fin (Tfin=time.time()) de l'algorithme on pourra en déduire
 le temps d'exécution de ce dernier (Tfin - Tdebut= Texecution).
