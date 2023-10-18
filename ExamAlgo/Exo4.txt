@@ -1,0 +1,7 @@
+Le tri à bulles est considéré lent car il compare un à un chaque élément du tableau.
+Ce qui signifie qu'on rajoute potentiellement N comparaison à chaque valeur du tableau.
+
+Il existe des fonctions pour prendre le temps réel à un instant T, 
+alors si l'on prend cette mesure au début (Tdebut) et la fin (Tfin) de l'algorithme on 
+pourra en déduire le temps d'exécution de ce dernier (Tfin - Tdebut= Texecution).
+
