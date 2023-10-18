@@ -1,5 +1,6 @@
 Le tri à bulles est considéré lent car il compare un à un chaque élément du tableau.
-Ce qui signifie qu'on rajoute potentiellement N comparaison à chaque valeur du tableau.
+Ce qui signifie qu'on a potentiellement N comparaison pour chaque valeur du tableau.
+
 
 En important "time" on a la fonction time() qui prend une mesure du temps à un instant T, 
 alors si l'on prend cette mesure au début (Tdebut=time.time()) 
